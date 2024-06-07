@@ -1,0 +1,16 @@
+.hello {
+  background-image: url("../../../public/battle-versus-vs-background-sports-game_1017-23766.avif");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+table,
+th,
+tr {
+  border: 1px solid black;
+  height: auto;
+}
